@@ -1,4 +1,6 @@
 # GoVWA
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliorlevtov%2Fshiftleft-go-demo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliorlevtov%2Fshiftleft-go-demo?ref=badge_shield)
+
 
 GoVWA (Go Vulnerable Web Application) is a web application developed to help the pentester and programmers to learn the vulnerabilities that often occur in web applications which is developed using golang. Vulnerabilities that exist in GoVWA are the most common vulnerabilities found in web applications today. So it will help programmers recognize vulnerabilities before they happen to their application. Govwa can also be an additional application of your pentest lab for learning and teaching.
 
@@ -100,3 +102,7 @@ Disclaimer: The code behaves somewhat weird by breaking if you change the number
 No real functionality. Except a green/red bar popping up depending on the response from the backend. If you use a proxy to tamper with the response you get a green bar regardless of your input.
 
 The correct OTP is a value that has the MD5 hash of `a587cd6bf1e49d2c3928d1f8b86f248b`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliorlevtov%2Fshiftleft-go-demo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliorlevtov%2Fshiftleft-go-demo?ref=badge_large)
